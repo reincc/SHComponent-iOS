@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SHComponent-iOS_Example' do
+  pod 'SHComponent-iOS', :path => '../'
+
+  target 'SHComponent-iOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

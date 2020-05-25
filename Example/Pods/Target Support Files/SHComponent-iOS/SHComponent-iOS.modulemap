@@ -1,0 +1,6 @@
+framework module SHComponent_iOS {
+  umbrella header "SHComponent-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

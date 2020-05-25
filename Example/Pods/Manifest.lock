@@ -1,0 +1,16 @@
+PODS:
+  - SHComponent-iOS (0.1.0)
+
+DEPENDENCIES:
+  - SHComponent-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  SHComponent-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SHComponent-iOS: 9ad6db12c5ed3ab18cc2b695e70f8fd019b5fe7d
+
+PODFILE CHECKSUM: 6e79110e57b7d5c8fc7d30a34c09d93ac40c93eb
+
+COCOAPODS: 1.9.1
