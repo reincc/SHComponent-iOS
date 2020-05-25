@@ -43,7 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1D41018F0518BADDE8F409A56A8F2397 /* SHComponent-iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "SHComponent-iOS.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1D41018F0518BADDE8F409A56A8F2397 /* SHComponent-iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "SHComponent-iOS.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2449643375226F24F2FAB09A3C7C9D1F /* Pods-SHComponent-iOS_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SHComponent-iOS_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		24906866B91A210BD0FEFABDAC929C96 /* Pods-SHComponent-iOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SHComponent-iOS_Tests.modulemap"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -58,12 +58,12 @@
 		75AF9766A31416A2010CB78C092201EC /* UIDevice+SHUIKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIDevice+SHUIKit.h"; sourceTree = "<group>"; };
 		83A6F32418A5734E111115E87C537B2B /* Pods-SHComponent-iOS_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SHComponent-iOS_Tests-umbrella.h"; sourceTree = "<group>"; };
 		953A3489CA89958A3ED86CA2110653D9 /* UIColor+SHUIKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIColor+SHUIKit.h"; sourceTree = "<group>"; };
-		98810812C616D86F253DB60EC825FA63 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		99EDBD5129C7F53C75FB45CEC64D6118 /* Pods_SHComponent_iOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SHComponent_iOS_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		98810812C616D86F253DB60EC825FA63 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		99EDBD5129C7F53C75FB45CEC64D6118 /* Pods_SHComponent_iOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SHComponent_iOS_Tests.framework; path = "Pods-SHComponent-iOS_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E92B8A2D8E17B1E3A48CDEEE5AE4E2A /* SHComponent-iOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SHComponent-iOS-prefix.pch"; sourceTree = "<group>"; };
-		A69194B27EB829DC9C9A786C05B73E84 /* Pods_SHComponent_iOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SHComponent_iOS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A7853AD0A53AF891DE9F95EDAEC176BB /* SHComponent_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SHComponent_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A69194B27EB829DC9C9A786C05B73E84 /* Pods_SHComponent_iOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SHComponent_iOS_Example.framework; path = "Pods-SHComponent-iOS_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7853AD0A53AF891DE9F95EDAEC176BB /* SHComponent_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SHComponent_iOS.framework; path = "SHComponent-iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEE1F9A9DA780EDCD458A4829F78AEB5 /* Pods-SHComponent-iOS_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SHComponent-iOS_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		B112EB1940062CF8111CAEF98146A678 /* Pods-SHComponent-iOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SHComponent-iOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BEC8555FB9E13350EB4D0444D7B80A5D /* UIColor+SHUIKit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIColor+SHUIKit.m"; sourceTree = "<group>"; };
@@ -77,7 +77,7 @@
 		EB85495F02E5B420B5EDBAB81DBAC956 /* SHComponent-iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SHComponent-iOS-dummy.m"; sourceTree = "<group>"; };
 		EB91662177230B460338D1E28A60F0DA /* Pods-SHComponent-iOS_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SHComponent-iOS_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EDD6EE36B5A15FEBA5CFE17DD5748F22 /* Pods-SHComponent-iOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SHComponent-iOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		EFD3CD58C3A358FAC09BA466292DD73E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		EFD3CD58C3A358FAC09BA466292DD73E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		F3C76FD43C1A4C4D3B0BF3D967F3407B /* SHComponent-iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "SHComponent-iOS.release.xcconfig"; sourceTree = "<group>"; };
 		F5D7B87523E53F45BFD35DB1858F46FC /* Pods-SHComponent-iOS_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SHComponent-iOS_Tests-dummy.m"; sourceTree = "<group>"; };
 		FB1674877D0BC27B3A30D29CAFFF4F0B /* SHComponent-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "SHComponent-iOS.debug.xcconfig"; sourceTree = "<group>"; };
@@ -211,11 +211,11 @@
 			isa = PBXGroup;
 			children = (
 				CD4C5CC77E0D16D4A888519F9AC404E4 /* SHComponent.h */,
+				A76DFCF560C9D41F7443A622345B9399 /* Pod */,
+				39F6D713587295F3A3F3969236246F5F /* Support Files */,
 				C76E747A9FFE83288029FAE23A273DE9 /* UIColor+SHUIKit */,
 				7A0A9CC57C65B92DBDF6CC37988C2EF9 /* UIDevice+SHUIKit */,
 				748072F6012A872CD0D6263B64F88D0C /* UIImage+SHUIKit */,
-				A76DFCF560C9D41F7443A622345B9399 /* Pod */,
-				39F6D713587295F3A3F3969236246F5F /* Support Files */,
 			);
 			name = "SHComponent-iOS";
 			path = ../..;
@@ -640,7 +640,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
