@@ -19,4 +19,6 @@ FOUNDATION_EXPORT const unsigned char SHComponentVersionString[];
 #import "UIDevice+SHUIKit.h"
 #import "UIColor+SHUIKit.h"
 #import "UIImage+SHUIKit.h"
+#import "UIView+SHUIKit.h"
+#import "NSString+SHUtil.h"
 

@@ -14,6 +14,8 @@
 #import "UIColor+SHUIKit.h"
 #import "UIDevice+SHUIKit.h"
 #import "UIImage+SHUIKit.h"
+#import "UIView+SHUIKit.h"
+#import "NSString+SHUtil.h"
 
 FOUNDATION_EXPORT double SHComponent_iOSVersionNumber;
 FOUNDATION_EXPORT const unsigned char SHComponent_iOSVersionString[];
