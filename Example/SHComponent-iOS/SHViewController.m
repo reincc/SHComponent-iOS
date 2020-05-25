@@ -7,6 +7,7 @@
 //
 
 #import "SHViewController.h"
+#import <SHComponent.h>
 
 @interface SHViewController ()
 
@@ -20,6 +21,7 @@
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(30, (self.view.frame.size.height - 45) / 2, self.view.frame.size.width - 60, 45)];
     label.text = @"hello SHComponent";
     label.textAlignment = NSTextAlignmentCenter;
+    label.textColor = sh_color_hex(0x999999);
     [self.view addSubview:label];
 }
 

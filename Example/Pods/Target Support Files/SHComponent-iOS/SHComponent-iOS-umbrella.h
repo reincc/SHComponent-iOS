@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "SHComponent.h"
 #import "UIColor+SHUIKit.h"
 #import "UIDevice+SHUIKit.h"
 #import "UIImage+SHUIKit.h"
