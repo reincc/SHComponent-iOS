@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SHComponent-iOS'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '一个常用的自用组件库'
 
 # This description is used to generate tags and improve search results.
